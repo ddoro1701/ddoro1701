@@ -1,5 +1,4 @@
 Hallo zusammen!
 
-Ich bin Daniel (24) und ich bin Fachschüler (FR Informationstechnik) an der Elektronikschule.
+Ich bin Daniel (26) und ich bin Computer Science Student an der Wrexham University.
 
-Viel Spaß mit meinem Repository!

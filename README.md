@@ -1,4 +1,2 @@
-Hallo zusammen!
-
-Ich bin Daniel (26) und ich bin Computer Science Student an der Wrexham University.
-
+Hi everyone!
+I'm Daniel (26), and I'm a Computer Science student at Wrexham University.

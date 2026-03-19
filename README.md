@@ -1,2 +1,2 @@
 Hi everyone!
-I'm Daniel (26), and I'm a Computer Science student at Wrexham University.
+I am Daniel (27), and I am a Computer Science student at Wrexham University.
